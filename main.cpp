@@ -7,6 +7,7 @@ int main()
 {
     int x, y;
     int z;
+    test();
     cout<<"Hi, please enter two numbers: ";
     cin>>x;
     cin>>y;
