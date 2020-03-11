@@ -6,6 +6,7 @@ using std::cout;
 int main()
 {
     int x, y;
+    int z;
     cout<<"Hi, please enter two numbers: ";
     cin>>x;
     cin>>y;
